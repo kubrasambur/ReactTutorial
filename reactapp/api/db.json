@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+          "id" : "unique-1",
+          "name" : "Kübra Sambur",
+          "salary" : "5000",
+          "department" : "Bilişim"
+        },
+        {
+          "id" : "unique-2",
+          "name" : "Edanur Sambur",
+          "salary" : "4000",
+          "department" : "Halkla ilişkiler"
+        },
+        {
+          "id" : "unique-3",
+          "name" : "Abuziddin Kılkuyruk",
+          "salary" : "4500",
+          "department" : "Pazarlama"
+        }
+      ]
+}
